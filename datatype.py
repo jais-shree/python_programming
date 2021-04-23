@@ -10,7 +10,7 @@ c="Universal"
 print("c =",c)
 print("type of c :",type(c))
 
-d=True
+e=True
 print("d =",d)
-print("type of d :",type(d))
+print("type of d :",type(e))
 
